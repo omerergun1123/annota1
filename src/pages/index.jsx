@@ -138,7 +138,7 @@ class MainPage extends Component {
             );
             return (
                 <div >
-                    <h1>Task</h1>
+                    <h1>Task Try</h1>
                     <button type="button" onClick={() => this.turnBack()}>Back</button>
                     <div>
                         <img className="imageShow" src={takenimageUrl} height="350"  />
