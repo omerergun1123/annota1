@@ -121,7 +121,7 @@ class MainPage extends Component {
                     </ul>
                 </div>*/
                 <div className="App">
-                    <h1>Tasks</h1>
+                    <h1>Image Tasks</h1>
                     <Container >
                         {this.createTable(items.length,items)}</Container>
                 </div>
